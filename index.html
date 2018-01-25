@@ -7,50 +7,62 @@
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 <style type="text/css">
-body {
-	background-image:url("chicago.jpg");
-	background-size: 100% auto;
-	color: #fff;
-}
-h1 {
-	font-size: 400%;
-	text-align:center;
-	margin-top:100px;
+@media screen and (max-width:768px) {
+	.large-screen-only {
+		display: none;
+	} 
 }
 
-p {
-	text-align: center;
-	margin: 0 30px;
-}
+@media screen and (min-width:768px) {
+	.small-screen-only {
+		display:none;
+	}
 
-.transparent-button {
-	color: #fff;
-    background: none;
-    border: 3px solid #fff;
-    font-size: 150%;
-    padding: 9px 30px;
-    display: inline-block;
-    text-decoration: none;
-    min-width: 120px;
-	text-transform: uppercase;
-	margin: 10px;
-}
+	body {
+		background-image:url("chicago.jpg");
+		background-size: 100% auto;
+		color: #fff;
+	}
+	h1 {
+		font-size: 400%;
+		text-align:center;
+		margin-top:100px;
+	}
 
-div.spaced-row {
-	margin-top: 70px;
-}
+	p {
+		text-align: center;
+		margin: 0 30px;
+	}
 
-.btn-toolbar {
-    margin: 0px auto;
-    border: 3px solid red;
-}
+	.transparent-button {
+		color: #fff;
+	    background: none;
+	    border: 3px solid #fff;
+	    font-size: 150%;
+	    padding: 9px 30px;
+	    display: inline-block;
+	    text-decoration: none;
+	    min-width: 120px;
+		text-transform: uppercase;
+		margin: 10px;
+	}
 
+	div.spaced-row {
+		margin-top: 70px;
+	}
+
+	.btn-toolbar {
+	    margin: 0px auto;
+	    border: 3px solid red;
+	}
+
+}
 </style>
 </head>
 <body>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12">
+			<div class="col-md-12 justify-content-md-center spaced-row">
 				<h1>Andrew Violette</h1>
 			</div>
 		</div>
@@ -61,13 +73,21 @@ div.spaced-row {
 				</p>
 			</div>
 		</div>
-		<div class="row justify-content-md-center spaced-row">
+		<div class="row justify-content-md-center spaced-row large-screen-only">
 			<div class="col-md-auto">
 				<a class="transparent-button" href="http://github.com/aviolette">Github</a>
 				<a class="transparent-button" href="AJVResume2.pdf">Resume</a>
-				<a class="transparent-button"href="https://www.linkedin.com/in/aviolette">Linked In</a>
+				<a class="transparent-button" href="https://www.linkedin.com/in/aviolette">Linked In</a>
 			</div>
-
+		</div>
+		<div class="row small-screen-only">
+			<div class="col-md-12">
+				<ul>
+					<li><a href="http://github.com/aviolette">Github</a></li>
+					<li><a href="AJVResume2.pdf">Resume</a></li>
+					<li><a href="https://www.linkedin.com/in/aviolette">Linked In</a></li> 
+				</ul>
+			</div>
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
