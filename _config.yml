@@ -10,7 +10,9 @@ github_username:  aviolette
 # Build settings
 markdown: kramdown
 theme: minima
-
+plugins:
+  - jekyll-feed
+  
 defaults:
   - scope:
       path: "assets/img"
