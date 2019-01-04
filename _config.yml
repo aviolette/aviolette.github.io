@@ -1,0 +1,30 @@
+title: www.andrewviolette.net
+email: andrew@andrewviolette.net
+description: >- # this means to ignore newlines until "baseurl:"
+  The blog of the chicago food truck finder
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: chifoodtruckz
+github_username:  aviolette
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - index.html
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
