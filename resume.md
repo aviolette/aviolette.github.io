@@ -1,3 +1,7 @@
+---
+title: Andrew Violette | Resume
+---
+
 Andrew Violette
 
 Foo
