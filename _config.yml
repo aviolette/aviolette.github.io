@@ -9,7 +9,7 @@ github_username:  aviolette
 
 # Build settings
 markdown: kramdown
-theme: Minimal
+theme: minimal
 
 defaults:
   - scope:
