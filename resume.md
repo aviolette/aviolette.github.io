@@ -24,3 +24,19 @@ May 2010 - August 2018
 January 2008 - April 2010
 * I lead travel-based projects in Rearden Commerce’ SaaS based system. This was primarily a J2EE based architecture: Spring, Struts, Java, Oracle.
 
+### Orbitz, Chicago, IL - _Development Manager_
+June 2001 - December 2007
+* Initially, I was a Senior Engineer involved in development of Java services that connected to external vendors.
+* Managed team that developed Northwest Airlines' (now Delta) website.  This was full-stack development plus operations and support
+* Managed front-end team on Orbitz.com.  This was mostly triage, support, and story management.
+
+## Additional Work Experience
+
+* Accenture - Northbrook, IL - Senior Software Engineer - 1995 - 2001 
+* Hewitt Associates - Lincolnshire, IL - Software Engineer - 1994-1995 
+* IBM - Boca Raton, FL - 1994-1995
+* NSA - Fort Meade, MD - 1990 - 1992
+
+
+
+
