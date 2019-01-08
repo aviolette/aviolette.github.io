@@ -1,10 +1,10 @@
 # Andrew Violette
 Seasoned Programmer and Manager
 
-<address>4990 North Tamarack Drive    
+4990 North Tamarack Drive    
 Hoffman Estates, IL  60010   
 aviolette@gmail.com    
-www.andrewviolette.net  </address>
+www.andrewviolette.net  
 
 ## Experience
 
