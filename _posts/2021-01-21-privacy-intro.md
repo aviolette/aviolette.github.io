@@ -1,8 +1,8 @@
 ---
 title: 'Reset Your Privacy Settings'
 date: 2020-01-21 00:00:00
-description: Going to do a series of
-articles on internet privacy...starting here featured_image: '/images/demo/demo-square.jpg' 
+description: Going to do a series of articles on internet privacy...starting here 
+featured_image: '/images/demo/demo-square.jpg' 
 tags: privacy
 ---
 
