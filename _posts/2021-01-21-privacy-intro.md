@@ -1,6 +1,6 @@
 ---
 title: 'Reset Your Privacy Settings'
-date: 2020-01-21 00:00:00
+date: 2020-01-21 00:00:10
 description: Going to do a series of articles on internet privacy...starting here 
 featured_image: '/images/demo/demo-square.jpg' 
 tags: privacy
@@ -24,11 +24,15 @@ privacy and control over the data that is my own.
 I'm going to write a series of articles going over specific services and how and why you should
 disconnect from them (or at least use them smartly as to protect your privacy).
 
+## Principles for Internet Privacy
+
 My guiding principles for internet privacy are:
 
 1. The aphorism "If you don't pay for the product, you are the product" is my touchstone. Generally
    you should be cognizant of how technology companies make money before you use their services.
 2. For communication, use encrypted services, and assume any other form of communication is public.
 3. Assume all internet-connected devices with a microphone or camera can listen in on you.
-4. Own your own data. This isn't really a privacy issue exclusively, but sits at the nexus between
+4. Assume all internet-connected devices with a GPS can track your location and transmit to 3rd
+   party.
+5. Own your own data. This isn't really a privacy issue exclusively, but sits at the nexus between
    privacy and security and business sense.
