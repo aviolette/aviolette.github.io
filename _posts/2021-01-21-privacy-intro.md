@@ -28,11 +28,11 @@ disconnect from them (or at least use them smartly as to protect your privacy).
 
 My guiding principles for internet privacy are:
 
-1. The aphorism "If you don't pay for the product, you are the product" is my touchstone. Generally
+1. The aphorism "**If you don't pay for the product, you are the product**" is my touchstone. Generally
    you should be cognizant of how technology companies make money before you use their services.
-2. For communication, use encrypted services, and assume any other form of communication is public.
-3. Assume all internet-connected devices with a microphone or camera can listen in on you.
-4. Assume all internet-connected devices with a GPS can track your location and transmit to 3rd
-   party.
-5. Own your own data. This isn't really a privacy issue exclusively, but sits at the nexus between
+2. For communication, **use encrypted services**, and assume any other form of communication is public.
+3. **Assume all internet-connected devices with a microphone or camera can listen in on you**.
+4. **Assume all internet-connected devices with a GPS can track your location and transmit to 3rd
+   party.**
+5. **Own your own data**. This isn't really a privacy issue exclusively, but sits at the nexus between
    privacy and security and business sense.
