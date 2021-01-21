@@ -1,33 +1,58 @@
-title: www.andrewviolette.net
+site: Andrew Violette
 email: andrew@andrewviolette.net
-description: >- # this means to ignore newlines until "baseurl:"
-  The blog of the chicago food truck finder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: chifoodtruckz
+url: https://www.andrewviolette.net
+baseurl: ""
 github_username:  aviolette
 
-# Build settings
-markdown: kramdown
-theme: minimal
-plugins:
-  - jekyll-feed
-  
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - index.html
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+  

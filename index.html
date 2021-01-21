@@ -1,115 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Andrew Violette - Programmer</title>
-<meta name="author" content="Andrew Violette aviolette@gmail.com"/>
-<meta name="description" content="THE Andrew Violette.  Programmer from Chicago.  Drinker of cocktails.  Owner of dachshund."/>
+---
+layout: default
+title: A sleek, modern Jekyll theme for personal websites.
+description: A sleek, modern Jekyll theme for personal websites. Personal is the perfect theme for developers, designers and other creatives.
+featured_image: /images/demo/home.jpg
+---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-<style type="text/css">
-@media screen and (max-width:992px) {
-	.large-screen-only {
-		display: none;
-	} 
-	body {
-		font-size: 200%;
-	}
-	h1 {
-		font-size: 300%;
-	}
-}
+<section class="hero">
 
-@media screen and (min-width:992px) {
-	.small-screen-only {
-		display:none;
-	}
-
-
-	.center-justify {
-		justify-content: center!important;
-	}
-	body {
-		background-size: 100% auto;
-	}
-	h1 {
-		font-size: 400%;
-		text-align:center;
-		margin-top:100px;
-	}
-
-	p {
-		text-align: center;
-		margin: 0 30px;
-	}
-
-	.transparent-button {
-	    background: none;
-	    border: 3px solid;
-	    font-size: 150%;
-	    padding: 9px 30px;
-	    display: inline-block;
-	    text-decoration: none;
-	    min-width: 120px;
-		text-transform: uppercase;
-		margin: 10px;
-	}
-
-	div.spaced-row {
-		margin-top: 70px;
-	}
-
-	.btn-toolbar {
-	    margin: 0px auto;
-	    border: 3px solid red;
-	}
-
-}
-</style>
-</head>
-<body>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 justify-content-md-center spaced-row">
-				<h1>Andrew Violette</h1>
-			</div>
-		</div>
-		<div class="row center-justify spaced-row" >
-			<div class="col-md-8">
-				<p>
-				I am a programmer that lives near Chicago.</p>
-			</div>
-		</div>
-		<div class="row justify-content-md-center spaced-row large-screen-only">
-			<div class="col-md-auto">
-				<a class="transparent-button" href="http://github.com/aviolette">Github</a>
-				<a class="transparent-button" href="AJVResume-November2020.pdf">Resume</a>
-				<a class="transparent-button" href="https://www.linkedin.com/in/aviolette">Linked In</a>
-			</div>
-		</div>
-		<div class="row small-screen-only">
-			<div class="col-md-12">
-				<ul>
-					<li><a href="http://github.com/aviolette">Github</a></li>
-					<li><a href="AJVResume-November2020.pdf">Resume</a></li>
-					<li><a href="https://www.linkedin.com/in/aviolette">Linked In</a></li> 
-				</ul>
-			</div>
-		</div>
-
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
 	</div>
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2025448-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<div class="wrap">
 
-  gtag('config', 'UA-2025448-1');
-</script>
+		<h1>A sleek, modern Jekyll theme
+		for personal websites</h1>
+		<p>Personal is the perfect theme for developers, designers and other creatives.</p>
 
-</body>
-</html>
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
