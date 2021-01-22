@@ -6,8 +6,6 @@ featured_image: '/images/chicago640.png'
 tags: privacy
 ---
 
-## Reset Your Privacy Settings
-
 Over the last few years, I have allowed more and more technology companies into my day-to-day life.
 Initially, it was Google for mail and search, then it was social media, then it was IoT gadgets (
 such as alexa or internet connected light bulbs or security cameras). Whereas 15 years ago, I maybe
