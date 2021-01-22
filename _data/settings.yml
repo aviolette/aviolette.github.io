@@ -12,8 +12,8 @@ menu_settings:
 #      url: '/projects'
     - title: 'Blog'
       url: '/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Resume'
+      url: 'https://www.andrewviolette.net/AJVResume-November2020.pdf'
 
 #footer_settings:
 #  footer_tagline: A sleek, modern Jekyll theme for personal websites.
@@ -56,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://linkedin.com/in/aviolette'
 
 color_settings:
   background_color: '#ffffff'
