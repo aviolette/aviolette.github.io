@@ -1,6 +1,7 @@
 ---
-title: 'An Opportunity Missed' date: 2020-01-22 00:00:10 
-featured_image: '/images/demo/demo-landscape-2.jpg'
+title: 'An Opportunity Missed' 
+date: 2020-01-22 21:00:10 
+featured_image: '/images/demo/demo-square.jpg' 
 tags: news
 
 ---
