@@ -1,6 +1,9 @@
 ---
-title: 'Reset Your Privacy Settings' date: 2020-01-21 00:00:10 description: Going to do a series of articles on internet
-privacy...starting here featured_image: '/images/chicago640.png' categories: privacy layout: post
+title: 'Reset Your Privacy Settings'
+date: 2020-01-21 00:00:10
+description: Going to do a series of articles on internet privacy...starting here 
+featured_image: '/images/chicago640.png' 
+categories: privacy layout: post
 ---
 
 Over the last few years, I have allowed more and more technology companies into my day-to-day life. Initially, it was
