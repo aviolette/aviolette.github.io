@@ -3,6 +3,7 @@ title: 'Hello, Is Anybody Out There?'
 date: 2020-01-21 00:00:09
 description: Just an intro and why I'm back to blogging 
 featured_image: '/images/demo/demo-square.jpg' 
+layout: post
 ---
 
 I've had various blogs over the years to varying degrees of success. I'm restarting the effort
