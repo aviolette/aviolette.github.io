@@ -5,7 +5,5 @@ tags: news
 
 ---
 
-And here is the New York Post, with a picture of chicken crossing the road, without begging the
-question of "why?"
+And here is the New York Post, [with a picture of chicken crossing the road](https://nypost.com/2021/01/22/key-west-plans-crackdown-on-people-who-feed-feral-chickens/), without begging the question "why?"
 
-https://nypost.com/2021/01/22/key-west-plans-crackdown-on-people-who-feed-feral-chickens/
