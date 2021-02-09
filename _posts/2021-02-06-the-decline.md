@@ -5,4 +5,4 @@ layout: post
 categories: movies
 ---
 
-[The Decline](https://www.netflix.com/title/81013927) on Netflix is a pretty good when-the-shit-hits-the-fan movie.  
+[The Decline](https://www.netflix.com/title/81013927) on Netflix is a pretty good when-the-shit-hits-the-fan action movie.  
