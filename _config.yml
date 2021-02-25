@@ -15,7 +15,7 @@ show_sidebar: true        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "Andrew Violette", url: "/", icon: home}
-  - {title: "Resume", url: "https://www.andrewviolette.net/AJVResume-Jan2021.pdf", icon: file}
+  - {title: "Resume", url: "https://www.andrewviolette.net/AJVResume.pdf", icon: file}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/aviolette"}
