@@ -19,6 +19,7 @@ navigation:
 
 external:                  # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/aviolette"}
+  - {title: LinkedIn, icon: linkedin-square, url: "https://linkedin.com/in/aviolette"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
