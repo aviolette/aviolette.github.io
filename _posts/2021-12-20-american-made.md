@@ -18,7 +18,8 @@ Buying American is great, and has many benefits:
 Here are some American products that I've really come to like:
 
 * [Benchmade Knives](https://www.benchmade.com/) - pretty awesome EDC knives and SOCP daggers
-* [White's Boots](https://whitesboots.com/)
+* [Beyond](https://beyondclothing.com/) - Beyond makes activewear.  They have a line made in America (which is $$$) and a "cheaper" line made in Taiwan.  I have bought their American-made rain jacket and it's virtually impervious to water.  I also have their fleece hoodie made in Taiwan which is also great. 
+* [White's Boots](https://whitesboots.com/) - I bought a pair of Steven's boots from them recently...they took 16 weeks to make.  They're great! (but super expensive)
 * [Inside Line Equipment](https://ilequipment.com/) - I have a lot of their bags at this point, including their 24L duffel, the large porteur bag, and some other smaller items.  Great construction and durability
 * [Quoddy](https://www.quoddy.com/) - Nothing has made me feel like an old-man more than my quoddy mocassins, but I frankly don't care.  They're super comfortable and durable.  When I get another pair, I'm going to spend a little extra and get the kind that can be resoled.
 * [Outlier](https://outlier.nyc/) - I have a pair of their Slim Dungarees, and they are great (waist size runs a bit small though, but that's forced me to lose weight)
