@@ -8,7 +8,7 @@ published: true
 
 ---
 
-![Blackwater Saga](/images/blackwater.jpeg){: .image-left }
+![Blackwater Saga](/images/blackwater.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 The Blackwater saga[^1] is my favorite book of 2021.  It was written by Michael McDowell in the 1980s, who is best known for writing the screenplays for *The Nightmare Before Christmas* and *Beetlejuice*.
 
