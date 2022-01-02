@@ -29,5 +29,4 @@ Here are some American products that I've really come to like:
 * Farmers' Markets and Craft Fairs.  If you want to support local producers, then look no further.  
 * [Splendid](https://www.splendid.com) - Splendid used to make all their mens clothes in USA and Mexico.  I loved their t-shirts, but they have stopped carrying mens clothing, so 😔
 
-I have yet to find good workout clothes, shoes, computer equipment, and small appliances made in America (I recently spent $400 dollars on a Wolf toaster because they said they were made in Madison, WI, but when I got the toaster it was made in China).  Also some vital medicine is still made in India and China.  Hopefully the pandemic will force manufacturers to produce locally.
 
