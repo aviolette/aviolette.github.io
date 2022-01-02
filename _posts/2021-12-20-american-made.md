@@ -21,7 +21,7 @@ Here are some American products that I've really come to like:
 * [White's Boots](https://whitesboots.com/)
 * [Inside Line Equipment](https://ilequipment.com/) - I have a lot of their bags at this point, including their 24L duffel, the large porteur bag, and some other smaller items.  Great construction and durability
 * [Quoddy](https://www.quoddy.com/) - Nothing has made me feel like an old-man more than my quoddy mocassins, but I frankly don't care.  They're super comfortable and durable.  When I get another pair, I'm going to spend a little extra and get the kind that can be resoled.
-* [Outlier](https://outlier.nyc/) - I have a pair of their skinny jeans, and they are great (waist size runs a bit small though, but that's forced me to lose weight)
+* [Outlier](https://outlier.nyc/) - I have a pair of their Slim Dungarees, and they are great (waist size runs a bit small though, but that's forced me to lose weight)
 * [Imogene & Willie](https://imogeneandwillie.com/)
 * [Etsy](https://etsy.com) - I've bought quite a bit of localish stuff for my house (bowls, dog dishes, plates, pots, etc.).  Pay attention where the artist is located and whether the item is handmade.
 * [Room and Board](https://www.roomandboard.com/) - Most of their furniture is made in America (there are some items made in Japan).  Their website displays where each item is made.  If you live in the Chicago area, they have an outlet in Oakbrook that has some pretty good deals (I have negotiated down on a set of chairs before so it is possible)
