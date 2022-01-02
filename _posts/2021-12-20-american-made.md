@@ -28,5 +28,7 @@ Here are some American products that I've really come to like:
 * [Thomas Moser](https://www.thosmoser.com/) - Everything they make is top-notch, but they are most known for the continuous-arm chairs.
 * Farmers' Markets and Craft Fairs.  If you want to support local producers, then look no further.  
 * [Splendid](https://www.splendid.com) - Splendid used to make all their mens clothes in USA and Mexico.  I loved their t-shirts, but they have stopped carrying mens clothing, so 😔
+* [360 Cookware](https://www.360cookware.com/) - Cookware and Bakeware.  Made in Wisconsin.  I have one of their sauce pans and a roasting pan.  Both are super study and solidly built.
+* [Lodge](https://www.lodgecastiron.com/) - Lodge pans are made in Tennessee (some of their accessories are made in Taiwan).  I'm a huge fan of Lodge and Cast-iron.
 
 
