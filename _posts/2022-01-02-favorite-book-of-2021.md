@@ -1,6 +1,6 @@
 ---
 title: 'Favorite Book of 2021'
-date: 2021-12-20 00:00:11
+date: 2022-01-02 00:00:11
 featured_image: '/images/demo/demo-square.jpg'
 layout: post
 categories: books
