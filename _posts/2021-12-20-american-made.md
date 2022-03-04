@@ -8,13 +8,6 @@ published: true
 
 ---
 
-Buying American is great, and has many benefits: 
-
-1. Reducing fuel consumption chewed up by long supply chains.
-2. Increasing our capacity to manufacture vital items here.
-3. Supporting American craftsmanship
-4. Reducing overall consumption (it's expensive to buy American goods, and you "buy once, cry once", generally)
-
 Here are some American products that I've really come to like:
 
 * [Benchmade Knives](https://www.benchmade.com/) - pretty awesome EDC knives and SOCP daggers
