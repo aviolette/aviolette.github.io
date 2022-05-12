@@ -4,7 +4,7 @@ date: 2021-12-20 00:00:11
 featured_image: '/images/demo/demo-square.jpg'
 layout: post
 categories: murica
-published: false
+published: true
 
 ---
 
