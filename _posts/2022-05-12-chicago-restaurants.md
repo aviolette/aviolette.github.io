@@ -1,5 +1,5 @@
 ---
-title: 'Chicago-area Restaurants/Bars I'd Recommend'
+title: 'Chicago-area Restaurants'
 date: 2022-05-12 00:00:11
 featured_image: '/images/demo/demo-square.jpg'
 layout: post
