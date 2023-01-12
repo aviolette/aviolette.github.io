@@ -1,5 +1,5 @@
 ---
-title: 'Chicago-area Restaurants'
+title: 'Restaurants I like in Chicago'
 date: 2022-05-12 00:00:11
 featured_image: '/images/demo/demo-square.jpg'
 layout: post
@@ -40,7 +40,7 @@ Started on 2013/03/20
 * Do-rite Donuts - Coffee and Donuts
 * The Gage
 * Vol. 39 - fancy/expensive cocktails
-* ~~Mindy's Hot Chocolate in Revival - Donuts and Bagels - CLOSED ~~
+* ~~Mindy's Hot Chocolate in Revival - Donuts and Bagels - CLOSED~~
 * ~~Fry The Coop CLOSED~~
 
 ## West Loop

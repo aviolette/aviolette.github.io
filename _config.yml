@@ -15,11 +15,12 @@ show_sidebar: true        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "Andrew Violette", url: "/", icon: home}
-  - {title: "Resume", url: "https://www.andrewviolette.net/AJVResume-2022-08-12.pdf", icon: file}
+  - {title: "Resume", url: "https://www.andrewviolette.net/AJVResume-2023-01-11.pdf", icon: file}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/aviolette"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/aviolette"}
+  - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/23870094-andrew-violette"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
