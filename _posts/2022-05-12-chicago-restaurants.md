@@ -70,7 +70,7 @@ Started on 2013/03/20
 * Bar Sotano
 * Frontera Grill
 * Berkshire Room
-* Beacon Tavern
+* ~~Beacon Tavern (CLOSED)~~
 * Meli Cafe - Good Breakfast
 * Franklin Room  - Great Happy Hour/Lunch Specials
 
