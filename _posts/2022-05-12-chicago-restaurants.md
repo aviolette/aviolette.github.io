@@ -24,7 +24,7 @@ Started on 2013/03/20
 * ~~Smalls - filippino bbq~~
 * Bang Bang Pie - pie
 * Kitschn on Rosco - breakfast/brunch/tiki drinks
-* Kamatsu - filipino food
+* Kasama - filipino food
 
 ## Uptown/Ravenswood/Andersenville/Lincoln Square
 * Tank Noodle - Vietnamese
