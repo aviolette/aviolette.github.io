@@ -11,8 +11,13 @@ Accomplished Software Engineering Leader with over 30 years of experience archit
 
 ## Experience
 
+### Engineering Manager at Stellar Health
+September 2026 - Present | New York City, NY (remote)
+
+Engineering manager on Beta Workflow Team
+
 ### Founding Engineer at Spiraldot Health
-January 2023 - Present | Los Angeles, CA (remote)
+October 2024 - September 2026 | Los Angeles, CA (remote)
 
 - Architected and implemented an AI-powered clinical decision support system for oncology using AWS, LangChain, and LLMs with HL7 FHIR interoperability standards.
 - Designed an event-driven microservices architecture with Python-based backend services and a TypeScript/React frontend, enabling scalable and secure real-time insights.
